@@ -1,0 +1,7 @@
+[
+    {
+        "method": "GET",
+        "route": "/project/list",
+        "file": "./api/project/get_list.js"
+    }
+]

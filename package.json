@@ -1,0 +1,16 @@
+{
+  "name": "application-server",
+  "version": "0.0.0",
+  "description": "Application Server",
+  "main": "Gruntfile.js",
+  "author": "Author",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "restify": "^2.6.2",
+    "grunt-concurrent": "^0.4.3",
+    "grunt-nodemon": "^0.2.0"
+  },
+  "dependencies": {
+    "restify": "^2.6.2"
+  }
+}
