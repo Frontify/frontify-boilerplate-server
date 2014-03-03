@@ -1,6 +1,6 @@
 var restify = require('restify');
 var fs = require('fs');
-var file = __dirname + '/../api.json';
+var file = __dirname + '/api.json';
 
 var server = restify.createServer();
 
