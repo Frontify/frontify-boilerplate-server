@@ -8,8 +8,7 @@
   "devDependencies": {
     "restify": "^2.6.2",
     "grunt-concurrent": "^0.4.3",
-    "grunt-nodemon": "^0.2.0",
-    "mocha": "^1.17.1"
+    "grunt-nodemon": "^0.2.0"
   },
   "dependencies": {
     "restify": "^2.6.2"
