@@ -42,5 +42,6 @@ module.exports = function(grunt) {
 
   // register tasks
   grunt.registerTask('server', ['concurrent:development']);
+  grunt.registerTask('test', []);
 
 };

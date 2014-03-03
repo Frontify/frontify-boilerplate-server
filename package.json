@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "restify": "^2.6.2"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
